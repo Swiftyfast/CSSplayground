@@ -26,5 +26,10 @@ namespace CSSPlayground.Controllers
 
             return View();
         }
+
+        public ActionResult ProtagonistOne()
+        {
+            return View();
+        }
     }
 }
