@@ -36,5 +36,15 @@ namespace CSSPlayground.Controllers
         {
             return View();
         }
+
+        public ActionResult AntagonistDraldan()
+        {
+            return View();
+        }
+
+        public ActionResult AntagonistTimeEvent()
+        {
+            return View();
+        }
     }
 }
