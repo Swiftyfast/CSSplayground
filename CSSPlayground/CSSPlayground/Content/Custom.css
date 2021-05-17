@@ -9,7 +9,7 @@
     border-radius: 12px;
 }
 
-.txtBox {
+.txtBoxGreen {
     background-color: #B8F6D8;
     margin-left: 30px;
     margin-right: 30px;
@@ -18,7 +18,7 @@
     height: 300px;
 }
 
-.myCenterText {
+.myCenterTextGreen {
     color: black;
     text-align: center;
     background-color: #B8F6D8;
