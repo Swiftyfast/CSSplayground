@@ -32,6 +32,11 @@ namespace CSSPlayground.Controllers
             return View();
         }
 
+        public ActionResult ProtagonistTwo()
+        {
+            return View();
+        }
+
         public ActionResult AntagonistShark()
         {
             return View();
