@@ -56,5 +56,10 @@ namespace CSSPlayground.Controllers
         {
             return View();
         }
+
+        public ActionResult MidnightCards()
+        {
+            return View();
+        }
     }
 }
