@@ -64,5 +64,6 @@ namespace CSSPlayground.Controllers
         //NOTE we cannot just create a controller, we will probably have to create a model first.
         //edit
         //Codepen?
+        //Look to notes to figure out new controllers
     }
 }
