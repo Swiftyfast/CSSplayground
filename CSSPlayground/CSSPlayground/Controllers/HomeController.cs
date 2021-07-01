@@ -65,6 +65,5 @@ namespace CSSPlayground.Controllers
         //edit
         //Codepen?
         //Look to notes to figure out new controllers
-        //Almost a three day weekends
     }
 }
