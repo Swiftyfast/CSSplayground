@@ -169,6 +169,7 @@
     <Content Include="Views\Home\AntagonistTimeEvent.cshtml" />
     <Content Include="Views\Home\ProtagonistTwo.cshtml" />
     <Content Include="Views\Home\ProtagonistThree.cshtml" />
+    <Content Include="Views\Home\MidnightCards.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
